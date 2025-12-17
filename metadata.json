@@ -1,0 +1,7 @@
+{
+  "name": "CyberShield Academy",
+  "description": "An immersive learning platform for cybersecurity enthusiasts, specializing in SQL, database security, and injection attack simulations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
